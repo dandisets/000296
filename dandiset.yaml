@@ -32,7 +32,7 @@ assetsSummary:
   - OpticalChannel
   - TwoPhotonSeries
 citation: Gonzalez, Aneysis (2022) Drosophila visual neural responses to stochastic
-  stimuli (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000296/draft
+  stimuli (Version 0.220805.1724) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000296/0.220805.1724
 contributor:
 - affiliation: []
   email: aneysis.gonzalez@yale.edu
@@ -42,6 +42,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2022-07-20T15:15:55.421980+00:00'
+datePublished: '2022-08-05T17:24:33.445793+00:00'
 description: 'Associated Reference Publication: Excitatory and inhibitory neural dynamics
   jointly tune motion detection
 
@@ -60,21 +61,34 @@ description: 'Associated Reference Publication: Excitatory and inhibitory neural
   constrained by functional data and anatomy qualitatively reproduced the observed
   tuning changes. Overall, these results reveal how excitatory and inhibitory dynamics
   together tune a canonical circuit computation.'
+doi: 10.48324/dandi.000296/0.220805.1724
 ethicsApproval: []
-id: DANDI:000296/draft
+id: DANDI:000296/0.220805.1724
 identifier: DANDI:000296
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000296/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000296/0.220805.1724/assets.yaml
 name: Drosophila visual neural responses to stochastic stimuli
 protocol: []
+publishedBy:
+  endDate: '2022-08-05T17:24:33.445793+00:00'
+  id: urn:uuid:9739370d-2407-4a09-a9fa-5c024bf081fa
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2022-08-05T17:24:33.445793+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:a05d8397-7936-4282-be9a-1e6d5512a8d6
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.3
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000296/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000296/0.220805.1724
+version: 0.220805.1724
 wasGeneratedBy: []
